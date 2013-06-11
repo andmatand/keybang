@@ -1,0 +1,7 @@
+*.swp
+sounds-unconverted/*.aiff
+sounds-unconverted/*.m4a
+sounds-unconverted/*.mp3
+sounds-unconverted/*.ogg
+sounds-unconverted/*.oga
+sounds-unconverted/*.wav
